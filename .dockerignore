@@ -1,0 +1,8 @@
+lib/
+env/
+test/
+venv/
+.gitignore
+.travis.yml
+README.md
+tsd.json
